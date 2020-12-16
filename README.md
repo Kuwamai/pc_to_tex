@@ -1,6 +1,6 @@
 # pc_to_tex
 ## Description
-PointCloudShaderに必要な、点群データをテクスチャに書き込むスクリプトです
+[PointCloudShader](https://github.com/Kuwamai/PointCloudShader)に必要な、点群データをテクスチャに書き込むスクリプトです
 
 ## Usage
 * 使い方はこちらに書いてます
